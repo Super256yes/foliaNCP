@@ -1,0 +1,5 @@
+name: foliaNCR
+folia-supported: true
+version: '1.0-SNAPSHOT'
+main: org.folianochatreports.foliancp.FoliaNCR
+api-version: '1.20'
